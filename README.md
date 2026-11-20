@@ -20,6 +20,12 @@
   </a>
 </p>
 
+> **Important:** This repository uses **Git Large File Storage (Git LFS)** to manage some of the project files. To ensure that all files are downloaded correctly, we recommend cloning the repository using **GitHub Desktop**, which includes Git LFS support by default.
+>
+> If you prefer to clone the repository using the command line, make sure that the **latest stable version of Git LFS** is installed and configured on your computer **before cloning the repository**.
+>
+> Simply downloading the repository without Git LFS support may result in Git LFS pointer files being retrieved instead of the actual project files.
+
 <details open>
   <summary><h2>About the book</h2></summary>
 
